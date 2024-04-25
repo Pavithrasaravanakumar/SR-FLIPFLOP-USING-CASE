@@ -50,3 +50,4 @@ RegisterNumber:212223220073
 ![image](https://github.com/Pavithrasaravanakumar/SR-FLIPFLOP-USING-CASE/assets/150664013/a7863843-1f8f-41c6-9772-70b95dc04ef1)
 
 **RESULTS**
+ Thus the program executed successfully.
